@@ -22,10 +22,6 @@ Temas:
 
 ---
 
-[Página oficial: https://nodejs.org/en](https://nodejs.org/en)
-
----
-
 ## ¿Qué es Node.js? Historia y por qué es relevante
 
 Node NO es...
@@ -65,6 +61,34 @@ El secreto es que utiliza el **motor V8**, el motor de JavaScript que ejecuta el
 
 ---
 
+## Historia
+
+En 2009 lo creo Rayan Dahl (actualmente creo Deno, como alternativa a Nodejs), porque necesitaba una alternativa a Apache HTTP Server, un servidor de Apache que no podía manejar muchas peticiones de manera recurrente.
+
+En 2015 Nodejs se unió con la Open Surce Foundation, es totalmente de código abierto.
+
+---
+
 ## Instalación y configuración
+
+Ir a la [página oficial: https://nodejs.org/en](https://nodejs.org/en), donde hay dos opciones:
+
+- LTS -> es la versión más estable, Long Term Support
+
+- Actual -> últimas características, pero no es la más estable.
+
+La desventaja es que se instala una versión de Node en el sistema operativo, pero si estamos trabajando en distintos proyectos, con distintas versiones de Node, entonces se podría Dockerizar o se puede utilizar un **administrador de versiones de Node** como lo es **nvm**(**Node Version Manager**), lo que permite utilizar más de una versión de Node, si tenemos windows hay que usar nvm-windows.
+
+Otra alternativa es **fnm** (**Fast and Simple Nodejs Version manajer**), contruido con Rust. Es super rápido y multiplataforma, lo único es que hay que instalar [Rust](https://www.rust-lang.org/) y configurar las variables y el path. Si algo no funciona, por las dudas cerrar y volver a abrir la terminal.
+
+`fnm --version` -> para corroborar por terminal si se instalo bien
+
+`fnm` -> es como el herlp, que te muestra los comandos:
+
+- `fnm list` -> da las versiones de node instaladas -> Utilizar la version **18** de Node
+
+- `fnm install 18.17.0` -> para instalar una versión determinada, en este caso la 18.17.0
+
+- `fnm use 18.17.0` -> Para indicar que versión de Node vamos a usar y si hacemos `node --version` nos aseguramos de ver la misma versión.
 
 ---

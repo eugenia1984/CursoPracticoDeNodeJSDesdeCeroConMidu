@@ -34,6 +34,8 @@ Configuración de linter
 Tu primer servidor con Node.js
 ```
 
+[video en twitch](https://www.twitch.tv/videos/1876988801) hasta 00.34.17
+
 2. Sistema de módulos de Node
 ```
 Importando módulos nativos
