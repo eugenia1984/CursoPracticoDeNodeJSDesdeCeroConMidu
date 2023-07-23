@@ -22,7 +22,7 @@ Al terminar el curso, tendrás la confianza para crear tus propios proyectos y t
 
 ## <img width="48" height="48" src="https://img.icons8.com/color/48/open-book--v1.png" alt="open-book--v1"/>  Contenido
 
-1. Introducción a Node.js
+1. [Introducción a Node.js]([)](https://github.com/eugenia1984/CursoPracticoDeNodeJSDesdeCeroConMidu/blob/main/teoria/01_introduccion_nodejs.md)
 ```
 Presentación del curso y objetivos
 ¿Qué es Node.js? Historia y por qué es relevante
