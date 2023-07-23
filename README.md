@@ -1,4 +1,4 @@
-# :computer: Curso de Node.js desde cero - Midu
+# <img width="58" height="58" src="https://img.icons8.com/color/58/nodejs.png" alt="nodejs"/>  Curso de Node.js desde cero - Midu
 
 Node.js es una de las tecnologías más utilizadas y demandadas en el mundo de la programación. Es la base del famoso stack MERN y te permite llevar tus conocimientos de JavaScript a un nuevo nivel.
 
@@ -20,7 +20,7 @@ Al terminar el curso, tendrás la confianza para crear tus propios proyectos y t
 
 ---
 
-## :star:Contenido:star:
+## <img width="48" height="48" src="https://img.icons8.com/color/48/open-book--v1.png" alt="open-book--v1"/>  Contenido
 
 1. Introducción a Node.js
 ```
