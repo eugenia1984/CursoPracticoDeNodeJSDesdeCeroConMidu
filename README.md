@@ -124,16 +124,17 @@ Autenticación con OAuth
 ¿Qué es un ataque de inyección de SQL?
 ```
 
-11.
+11. Node.js + TypeScript
 ```
+¿Qué es TypeScript?
+Configuración de TypeScript
+Cómo pasar de JavaScript a TypeScript
 ```
 
-12.
+12. React + Node.js
 ```
+Crear CLIs con React con Ink
 ```
 
 
-13.
-```
-```
 ---
