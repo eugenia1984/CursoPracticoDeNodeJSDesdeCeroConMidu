@@ -140,3 +140,7 @@ Crear CLIs con React con Ink
 
 
 ---
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+
+---
